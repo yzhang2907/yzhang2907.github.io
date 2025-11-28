@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="248" height="120" viewBox="0 0 248 120">
+            <g transform="translate(31 10)">
+              <g><text x="-5" y="100" text-anchor="middle" font-family="monospace" font-size="15" fill="black">1-</text>
+              </g>
+              <g>
+                <rect x="9" y="0" width="2" height="100" fill="black" />
+                <rect x="13" y="0" width="2" height="100" fill="black" />
+              </g>
+              <g>
+                <rect x="21" y="0" width="4" height="100" fill="black" />
+                <rect x="27" y="0" width="2" height="100" fill="black" />
+              </g>
+              <g>
+                <rect x="31" y="0" width="2" height="91" fill="black" />
+                <rect x="39" y="0" width="4" height="91" fill="black" /><text x="40.666666666667" y="109"
+                  text-anchor="middle" font-family="monospace" font-size="15" fill="black">4</text>
+              </g>
+              <g>
+                <rect x="49" y="0" width="2" height="91" fill="black" />
+                <rect x="53" y="0" width="4" height="91" fill="black" /><text x="52.333333333333" y="109"
+                  text-anchor="middle" font-family="monospace" font-size="15" fill="black">1</text>
+              </g>
+              <g>
+                <rect x="63" y="0" width="4" height="91" fill="black" />
+                <rect x="69" y="0" width="2" height="91" fill="black" /><text x="64" y="109" text-anchor="middle"
+                  font-family="monospace" font-size="15" fill="black">0</text>
+              </g>
+              <g>
+                <rect x="77" y="0" width="4" height="91" fill="black" />
+                <rect x="83" y="0" width="2" height="91" fill="black" /><text x="75.666666666667" y="109"
+                  text-anchor="middle" font-family="monospace" font-size="15" fill="black">8</text>
+              </g>
+              <g>
+                <rect x="91" y="0" width="4" height="91" fill="black" />
+                <rect x="97" y="0" width="2" height="91" fill="black" /><text x="87.333333333333" y="109"
+                  text-anchor="middle" font-family="monospace" font-size="15" fill="black">5</text>
+              </g>
+              <g>
+                <rect x="101" y="0" width="2" height="100" fill="black" />
+                <rect x="105" y="0" width="2" height="100" fill="black" />
+              </g>
+              <g>
+                <rect x="109" y="0" width="4" height="91" fill="black" />
+                <rect x="117" y="0" width="4" height="91" fill="black" /><text x="120.66666666667" y="109"
+                  text-anchor="middle" font-family="monospace" font-size="15" fill="black">8</text>
+              </g>
+              <g>
+                <rect x="123" y="0" width="2" height="91" fill="black" />
+                <rect x="127" y="0" width="6" height="91" fill="black" /><text x="132.33333333333" y="109"
+                  text-anchor="middle" font-family="monospace" font-size="15" fill="black">0</text>
+              </g>
+              <g>
+                <rect x="137" y="0" width="4" height="91" fill="black" />
+                <rect x="143" y="0" width="4" height="91" fill="black" /><text x="144" y="109" text-anchor="middle"
+                  font-family="monospace" font-size="15" fill="black">6</text>
+              </g>
+              <g>
+                <rect x="151" y="0" width="2" height="91" fill="black" />
+                <rect x="157" y="0" width="6" height="91" fill="black" /><text x="155.66666666667" y="109"
+                  text-anchor="middle" font-family="monospace" font-size="15" fill="black">6</text>
+              </g>
+              <g>
+                <rect x="165" y="0" width="2" height="91" fill="black" />
+                <rect x="171" y="0" width="6" height="91" fill="black" /><text x="167.33333333333" y="109"
+                  text-anchor="middle" font-family="monospace" font-size="15" fill="black">2</text>
+              </g>
+              <g>
+                <rect x="179" y="0" width="2" height="100" fill="black" />
+                <rect x="183" y="0" width="2" height="100" fill="black" />
+              </g>
+              <g>
+                <rect x="193" y="0" width="2" height="100" fill="black" />
+                <rect x="197" y="0" width="2" height="100" fill="black" />
+              </g>
+              <g><text x="210" y="100" text-anchor="middle" font-family="monospace" font-size="15" fill="black">☏</text>
+              </g>
+            </g>
+          </svg>
